@@ -1,6 +1,6 @@
 <strong>File Sharing App</strong>
 
-I made this file sharing app, its backend code, frontend code will be adding soon.
+I made this file sharing app, where user can upload the file on server and send the generated unique download link to the reciver, also added mail feature in which sender can send download page link via mail to the reciever by using nodemailer and sendinblue.com (SMTP) mail service. 
 
 Dependencies I used : 
 <em>
@@ -24,3 +24,7 @@ To get started, download or clone the project, To Clone, simply paste the URL:
   
 3. go to terminal and type <em> npm install</em>
 4. to run :<em> npm run dev</em>  
+5. You can use postman to test the API's here.
+
+
+frontend code will be adding soon.
