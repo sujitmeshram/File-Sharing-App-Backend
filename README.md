@@ -2,6 +2,18 @@
 
 I made this file sharing app, its backend code, frontend code will be adding soon.
 
+Dependencies I used : 
+<em>
+   cors,
+    dotenv,
+    ejs,
+    express,
+    mongoose,
+    multer ,
+    nodemailer,
+    uuid
+  </em>
+
 To get started, download or clone the project, To Clone, simply paste the URL:
 <br>
 <em>git clone https://github.com/sujitmeshram/File-Sharing-App-Backend.git
