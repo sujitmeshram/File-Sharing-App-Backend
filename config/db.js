@@ -13,7 +13,6 @@ function connectDB() {
   });
 
   const connection = mongoose.connection;
-
   //   https://stackoverflow.com/questions/49607841/mongoose-connectiononce-what-does-it-mean
   connection
     .once("open", () => {
