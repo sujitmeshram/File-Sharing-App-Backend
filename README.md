@@ -2,6 +2,12 @@
 
 I made this file sharing app, where user can upload the file on server and send the generated unique download link to the receiver, also added mail feature in which sender can send download page link via mail to the reciever by using nodemailer and sendinblue.com (SMTP) mail service. 
 
+Technologies I used : <em>
+<strong>Node.js</strong>
+<strong>Express.js</strong>
+<strong>EJS</strong>
+<strong>MongoDB</strong>
+</em>
 Dependencies I used : 
 <em>
    cors,
