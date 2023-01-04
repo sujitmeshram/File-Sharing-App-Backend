@@ -1,4 +1,4 @@
-<strong>File-Sharing-App-Backend</strong>
+<strong>File Sharing App</strong>
 
 I made this file sharing app, its backend code, frontend code will be adding soon.
 
