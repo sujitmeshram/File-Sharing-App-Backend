@@ -2,7 +2,9 @@
 
 I made this file sharing app, its backend code, frontend code will be adding soon.
 
-To get started, download or clone the project, To Clone, simply paste the URL : <em>git clone https://github.com/sujitmeshram/File-Sharing-App-Backend.git
+To get started, download or clone the project, To Clone, simply paste the URL:
+<br>
+<em>git clone https://github.com/sujitmeshram/File-Sharing-App-Backend.git
   
 1. Go to .env file (make sure to rename '.env.example' as '.env', and add all the necessary credentials. 
 2. for SMTP, I used sendinblue.com's service
